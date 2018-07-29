@@ -1,6 +1,8 @@
 
 # 非典型精實創業—— 與 David J Bland 的一場「精實」午餐交流【 Star Rocket 活動側記】
 
+![Startup](https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.0-9/37720599_2116995358550281_8041207525858607104_o.jpg?_nc_fx=ftpe7-4&_nc_cat=0&oh=bb64b9857098a6976880b0ef71d36e99&oe=5BCCD49F)
+
 **文／Maxine Chiao** 
 
 > 你的產品有商業價值嗎？還是只是很貴的嗜好？ 
