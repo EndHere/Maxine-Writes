@@ -29,6 +29,10 @@ David 認為一股腦把東西做出來，儘管是可以實驗的「最小可�
 2. 你需怎麼測量來幫助你學會你要學的？（What do you need to measure to learn?）
 3. 你需要開發什麼來幫助你測量你需要學會的？（What do you need to build to measure to learn?）
 
+![need adjustment](https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.0-9/37922817_440737036407990_1831617128688517120_o.jpg?_nc_fx=ftpe7-4&_nc_cat=0&oh=d4d5138a70ecaa489b107e13c95c9398&oe=5BD0999A)
+
+![learn](https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.0-9/37922129_440731676408526_8637808767087411200_o.jpg?_nc_fx=ftpe7-4&_nc_cat=0&oh=638a9af4d64ef382ebe22721d5067c37&oe=5C0DDD4A)
+
 ## 關鍵三問題 
 
 > Do they？
@@ -47,7 +51,11 @@ David 認為一股腦把東西做出來，儘管是可以實驗的「最小可�
 
 David 認為，當一間公司從「學習」問對問題開始作為起點，並且能夠快速順著「測量」、「開發」軸轉，速度遠勝於市場上的競爭對手時，這間公司已經把其他人甩在後頭，而且可以完全專注在客戶上，而非怎麼擊垮對手、或擔憂對手隨時能取代你。
 
+![then pivot](https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.0-9/37926780_440731489741878_7869179856427155456_o.jpg?_nc_fx=ftpe7-4&_nc_cat=0&oh=85a8c6cf834d5c7c35ac5cc1e9a4ca34&oe=5C125997)
+
 ## 設計思考：需求性 + 存續性 + 可行性
+
+![overlapping](https://scontent.ftpe7-2.fna.fbcdn.net/v/t1.0-9/37931465_440731239741903_3200964419047653376_o.jpg?_nc_fx=ftpe7-4&_nc_cat=0&oh=6f43f40da7f6121a82491561828b78af&oe=5BD3E7DB)
 
 如上所述，這三個關鍵問題分別對應到另一個模型——需求（Desirability）、 存續性（Viability）、可行性（Feasibility）。這個模組正是為何講者認為傳統的精實創業無法真正創造精實，而必須有所改良的原因。
 
@@ -77,11 +85,15 @@ David 過去奔波美國各地輔道各式新創團隊，他觀察到許多新�
 
 最後，David 提供了一個協助新創團隊評估是否落入錯誤假設陷阱的座標圖。團隊可利用隨手可得的便條紙，分成三種顏色（需求、存續性、可行性），在座標的縱軸與橫軸上排列，當過多的需求條紙跟存續性便條紙座落右上角的區間時（意即攸關產品需求、存續及可行性的因素但未得到驗證），代表錯誤假設的風險越高。 
 
+![Assumption Mapping](https://scontent.ftpe7-1.fna.fbcdn.net/v/t1.0-9/37962615_440731226408571_5276791047429554176_o.jpg?_nc_fx=ftpe7-4&_nc_cat=0&oh=84b2bec9176f8423aedab8fb7cd9b210&oe=5BC611A7)
+
 午餐交流的時間不過一個小時，講者 David J Bland 留下的經驗分享已相當「精實」，足以讓人在會後細細琢磨。精實創業不只一種方法，講者 David 自己消化後醞釀出的改良版，不也就是一種以 Eric Ries 版本作為基準而不斷軸轉出來的心得。文章在此附上部分投影片內容，以及講者推薦的讀物。更多與這場午餐會內容相關的延伸讀物，以下也幫讀者整理出來：
 
 - [群募創業的危險 The Perils of Crowdfunded Innovation](https://medium.com/precoil/the-perils-of-crowdfunded-innovation-10a812be649f)
-
 - [如何找到早期採用者？ How Do I Find My Early Adopters?](https://medium.com/precoil/how-do-i-find-my-early-adopters-47de74789d9a) 
 - [設計思考 VS. 精實創業 Design Thinking vs Lean Startup](https://medium.com/precoil/design-thinking-vs-lean-startup-eff0522fe669)
 - [Aussumption Mapping 入門介紹 An Introduction to Assumptions Mapping with David J. Bland](http://blog.mural.co/2017/05/18/intro-assumptions-mapping/)
+
+### David J Bland 推薦讀物 
+![books](https://scontent.ftpe7-3.fna.fbcdn.net/v/t1.0-9/38050964_440739216407772_3520171688476016640_n.jpg?_nc_fx=ftpe7-4&_nc_cat=0&oh=ad0c11a7914a1476f03f95d4858789af&oe=5C0CCD6A)
 
