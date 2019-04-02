@@ -1,5 +1,5 @@
 module.exports = {
-  url: 'https://endhere.github.io/Maxine-Writes/,
+  url: 'https://endhere.github.io/Maxine-Writes/',
   title: 'Maxine Writes',
   subtitle: '我想說的事',
   copyright: 'CC-BY-SA-4.0',
